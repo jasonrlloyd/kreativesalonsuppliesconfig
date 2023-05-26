@@ -1,0 +1,576 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": true,
+      "showLogo": true
+    },
+    {
+      "layout": "announceBar",
+      "readFromFirestore": false,
+      "title": "Free Shipping Over €50 ROI | Log In For Trade Prices | Prices Shown are Ex-Vat",
+      "backgroundColor": "608700",
+      "textColor": "ffffff"
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "autoPlay": true,
+      "showNumber": false,
+      "design": "default",
+      "showBackGround": true,
+      "height": 0.2,
+      "radius": 15.0,
+      "items": [
+        {
+          "category": "gid://shopify/Collection/150739353675",
+          "title": {"text": "ALTER EGO TECHNO FRUIT", "color": "#ffffff"},
+          "cateName": "Alter Ego Techno Fruit",
+          "image": "https://i0.wp.com/www.esteticamagazine.es/wp-content/uploads/archivio/2019/12/27002-9ca069741e547e12a207fecaf49f1d0d.jpg",
+          "padding": 15.0
+        },
+        {
+          "category": "gid://shopify/Collection/281922109638",
+          "title": {"text": "FAST COLOR 10", "color": "#ffffff"},
+          "cateName": "Fast Color 10",
+          "image": "https://www.beautymarket.es/peluqueria/imagen/alter_ego_form1062_nov2021.jpg",
+          "padding": 15.0
+        },
+        {
+          "category": "gid://shopify/Collection/140848398411",
+          "title": {"text": "ECHOSLINE", "color": "#ffffff"},
+          "cateName": "Echosline",
+          "image": "https://www.echosline.it/media/wysiwyg/echosline/home/SLIDER_ECHOSLINE.jpg",
+          "padding": 15.0
+        }
+      ]
+    },
+    {
+      "layout": "announceBar",
+      "title": "\uD83D\uDC47\uD83D\uDC4725/05/23: NEW VIDEO BELOW!!!\uD83D\uDC47\uD83D\uDC47",
+      "backgroundColor": "DEFA52",
+      "textColor": "000000",
+      "animate": true
+    },
+    {
+      "layout": "video",
+      "embed": "<iframe src=\"https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Flovecherishalways%2Fvideos%2F1219972075378692%2F&show_text=false&width=267&t=0\" width=\"267\" height=\"476\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>"
+    },
+    {
+      "layout": "announceBar",
+      "title": "\uD83D\uDC47\uD83D\uDC47LOVE THIS? SHOP THE LOOK NOW\uD83D\uDC47\uD83D\uDC47",
+      "backgroundColor": "DEFA52",
+      "textColor": "000000",
+      "animate": true
+    },
+    {
+      "layout": "getTheLook",
+      "title": "Shop This Look",
+      "productUrls": [
+        "https://www.kreativesalonsupplies.com/collections/k-lamination/products/egobond-fortifying-system-step-4-7",
+        "https://www.kreativesalonsupplies.com/collections/k-lamination/products/k-lamination-kit"
+      ]
+    },
+    {
+      "layout": "spacer",
+      "height": 20
+    },
+    {
+      "layout": "announceBar",
+      "title": "☝️☝️LOVE THIS? SHOP THE LOOK NOW☝️☝️",
+      "backgroundColor": "DEFA52",
+      "textColor": "000000",
+      "animate": true
+    },
+    {
+      "name": "Recent View",
+      "layout": "recentView"
+    },
+    {
+      "name": "Permanent Hair Colour",
+      "image": "",
+      "layout": "twoColumn",
+      "category": "gid://shopify/Collection/140847349835",
+      "isSnapping": true
+    },
+    {
+      "name": "Hair Tools",
+      "image": "",
+      "layout": "twoColumn",
+      "category": "gid://shopify/Collection/141216874571",
+      "isSnapping": true
+    },
+    {
+      "name": "Training & Education",
+      "layout": "threeColumn",
+      "limit": 20,
+      "category": "gid://shopify/Collection/142258012235"
+    },
+    {
+      "name": "Salon Accessories",
+      "image": "",
+      "layout": "fourColumn",
+      "category": "gid://shopify/Collection/141955170379",
+      "isSnapping": true
+    },
+    {
+      "layout": "socials",
+      "facebook": "https://www.facebook.com/KreativeSalonSupplies/",
+      "instagram": "https://www.instagram.com/alteregoireland/"
+    }
+  ],
+  "Setting": {
+    "MainColor": "#608700",
+    "ProductListLayout": "list",
+    "StickyHeader": true
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "home",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "p1q235ba14"
+    },
+    {
+      "pos": 200,
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "card",
+      "key": "hwu0rkrizt",
+      "remapCategories": [
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
+          "name": "Features",
+          "image": "https://cdn.shopify.com/s/files/1/0331/5230/3239/collections/fashion-PN7FSF5_350x500.jpg?v=1581920391"
+        },
+        {
+          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTE2NDkzNQ==",
+          "name": "Bags"
+        },
+        {
+          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTQyNzA3OQ==",
+          "name": "Clothing"
+        },
+        {
+          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTI2MzIzOQ==",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwODk2ODMyNw==",
+          "name": "Shoes"
+        },
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTUyNTM4Mw==",
+          "name": "Women"
+        },
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3MDQwOTYyMzY4Nw==",
+          "name": "Man"
+        }
+      ]
+    },
+    {
+      "key": "2reihs4qzc",
+      "icon": "search",
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "size": 24
+    },
+    {
+      "pos": 400,
+      "icon": "bag",
+      "layout": "cart",
+      "categoryLayout": "cart",
+      "key": "a2xts0oou6",
+      "fontFamily": "CupertinoIcons"
+    },
+    {
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "key": "69jw5yx12d",
+      "icon": "person"
+    }
+  ],
+  "searchSuggestion": [
+    "Here's some popular searches...",
+    "Alter Ego Italy",
+    "Echosline",
+    "The Manicure Company",
+    "Permanent Hair Colour",
+    "Semi Permanent Hair Colour",
+    "Shampoo",
+    "Conditioner",
+    "EgoLine"
+  ],
+  "OnBoarding": {
+    "data": [
+      {
+        "title": "Welcome to D Biggins",
+        "image": "assets/images/fogg-delivery-1.png",
+        "desc": "Fluxstore is on the way to serve you. ",
+        "background": "#FFF3F2"
+      },
+      {
+        "title": "Connect Surrounding World",
+        "image": "assets/images/fogg-uploading-1.png",
+        "desc": "See all things happening around you just by a click in your phone. Fast, convenient and clean.",
+        "background": "#F2FFFC"
+      },
+      {
+        "title": "Let's Get Started",
+        "image": "fogg-order-completed.png",
+        "desc": "Waiting no more, let's see what we get!",
+        "background": "#F9F2FF"
+      }
+    ]
+  },
+  "categoriesDropDown": {
+    "items": [
+      {
+        "title": "Training & Education",
+        "individualCategories": [
+          {
+            "category": "gid://shopify/Collection/142258012235",
+            "cateName": "Alter Ego Education Courses 2023"
+          }
+        ]
+      },
+      {
+        "title": "Brands",
+        "individualCategories": [
+          {
+            "category": "gid://shopify/Collection/140847251531",
+            "cateName": "Alter Ego Italy"
+          },
+          {
+            "category": "gid://shopify/Collection/140848398411",
+            "cateName": "Echosline"
+          },
+          {
+            "category": "gid://shopify/Collection/155302527051",
+            "cateName": "The Manicure Company"
+          },
+          {
+            "category": "gid://shopify/Collection/283284242630",
+            "cateName": "Revlon"
+          },
+          {
+            "category": "gid://shopify/Collection/283284308166",
+            "cateName": "American Crew"
+          },
+          {
+            "category": "gid://shopify/Collection/283284373702",
+            "cateName": "Schwarzkopf"
+          },
+          {
+            "category": "gid://shopify/Collection/283325694150",
+            "cateName": "Olaplex"
+          },
+          {
+            "category": "gid://shopify/Collection/150673326155",
+            "cateName": "Leader Scissors"
+          }
+        ]
+      },
+      {
+        "title": "Hair Colour",
+        "individualCategories": [
+          {
+            "category": "gid://shopify/Collection/142386561099",
+            "cateName": "Just Color (Direct Color)"
+          },
+          {
+            "category": "gid://shopify/Collection/142387052619",
+            "cateName": "Colour Essentials"
+          },
+          {
+            "category": "gid://shopify/Collection/140850495563",
+            "cateName": "Bleach"
+          },
+          {
+            "category": "gid://shopify/Collection/142386757707",
+            "cateName": "Peroxide & Developer"
+          }
+        ],
+        "subCategories": [
+          {
+            "title": "Permanent Hair Colour",
+            "items": [
+              {
+                "category": "gid://shopify/Collection/281922109638",
+                "cateName": "Fast Color 10"
+              },
+              {
+                "category": "gid://shopify/Collection/150739353675",
+                "cateName": "Alter Ego Techno Fruit"
+              },
+              {
+                "category": "gid://shopify/Collection/158980538443",
+                "cateName": "Alter Ego My Color"
+              },
+              {
+                "category": "gid://shopify/Collection/157008920651",
+                "cateName": "Alter Ego Be Blonde / Blondego"
+              },
+              {
+                "category": "gid://shopify/Collection/284550725830",
+                "cateName": "NEW Echos Color, The Vegan Way"
+              },
+              {
+                "category": "gid://shopify/Collection/150739484747",
+                "cateName": "Echosline Echos Color"
+              },
+              {
+                "category": "gid://shopify/Collection/239541158086",
+                "cateName": "Karbon 9 Colour"
+              }
+            ]
+          },
+          {
+            "title": "Semi Permanent Hair Colour",
+            "items": [
+              {
+                "category": "gid://shopify/Collection/150797221963",
+                "cateName": "Toners"
+              },
+              {
+                "category": "gid://shopify/Collection/272965796038",
+                "cateName": "Color Lux Crazy Colours"
+              }
+            ]
+          },
+          {
+            "title": "Perming & Straightening",
+            "items": [
+              {
+                "category": "gid://shopify/Collection/142391935051",
+                "cateName": "Egoliss Straightening Treatment"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Hair Care",
+        "subCategories": [
+          {
+            "title": "Shampoos / Conditioners",
+            "items": [
+              {
+                "category": "gid://shopify/Collection/157010329675",
+                "cateName": "Alter Ego Scalp Range"
+              },
+              {
+                "category": "gid://shopify/Collection/165307220043",
+                "cateName": "Alter Ego Lengths & Ends"
+              },
+              {
+                "category": "gid://shopify/Collection/281950617798",
+                "cateName": "Alter Ego Filler Range"
+              },
+              {
+                "category": "gid://shopify/Collection/287025856710",
+                "cateName": "Anti-Orange/Red For Brunettes"
+              }
+            ]
+          },
+          {
+            "title": "Hair Treatments / Oils / Serums",
+            "items": [
+              {
+                "category": "gid://shopify/Collection/151215702091",
+                "cateName": "EgoBond Fortifying System"
+              },
+              {
+                "category": "gid://shopify/Collection/287501451462",
+                "cateName": "Shapego Straightening Systems"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "NEW",
+        "individualCategories": [
+          {
+            "category": "gid://shopify/Collection/600270766417",
+            "cateName": "NEW: Alter Ego Egoline"
+          },
+          {
+            "category": "gid://shopify/Collection/430135116066",
+            "cateName": "NEW: K-Lamination"
+          }
+        ]
+      },
+      {
+        "title": "Styling Products",
+        "individualCategories": [
+          {
+            "category": "gid://shopify/Collection/142078148683",
+            "cateName": "Hairspray & Mousse"
+          },
+          {
+            "category": "gid://shopify/Collection/165306630219",
+            "cateName": "Styling Paste & Gel"
+          },
+          {
+            "category": "gid://shopify/Collection/165306957899",
+            "cateName": "Curls"
+          },
+          {
+            "category": "gid://shopify/Collection/165307056203",
+            "cateName": "Smoothing & Finishing"
+          }
+        ]
+      },
+      {
+        "title": "Salon Tools",
+        "individualCategories": [
+          {
+            "category": "gid://shopify/Collection/141216972875",
+            "cateName": "Hair Dryers"
+          },
+          {
+            "category": "gid://shopify/Collection/150673162315",
+            "cateName": "Straighteners & Curling Tools"
+          },
+          {
+            "category": "gid://shopify/Collection/150673227851",
+            "cateName": "Hair Clippers & Trimmers"
+          },
+          {
+            "category": "gid://shopify/Collection/142272200779",
+            "cateName": "Hair Brushes"
+          }, {
+            "category": "gid://shopify/Collection/150673326155",
+            "cateName": "Scissors & Razors"
+          }
+        ]
+      },
+      {
+        "title": "Salon Accessories",
+        "individualCategories": [
+          {
+            "category": "gid://shopify/Collection/151513333835",
+            "cateName": "Eco Friendly Hairdressing Essentials"
+          },
+          {
+            "category": "gid://shopify/Collection/142066712651",
+            "cateName": "Hair Grips, Pins, Clips"
+          },
+          {
+            "category": "gid://shopify/Collection/141955203147",
+            "cateName": "Meche / Foam / Foil"
+          },
+          {
+            "category": "gid://shopify/Collection/142077657163",
+            "cateName": "Gloves"
+          },
+          {
+            "category": "gid://shopify/Collection/164746330187",
+            "cateName": "Gowns"
+          },
+          {
+            "category": "gid://shopify/Collection/142272200779",
+            "cateName": "Hair Brushes"
+          },
+          {
+            "category": "gid://shopify/Collection/163932962891",
+            "cateName": "Towels"
+          },
+          {
+            "category": "gid://shopify/Collection/163934896203",
+            "cateName": "Rollers"
+          },
+          {
+            "category": "gid://shopify/Collection/164002594891",
+            "cateName": "Cotton Wool"
+          },
+          {
+            "category": "gid://shopify/Collection/164002693195",
+            "cateName": "Hand Held Mirrors"
+          },
+          {
+            "category": "gid://shopify/Collection/150673326155",
+            "cateName": "Scissors & Razors"
+          }
+        ]
+      },
+      {
+        "title": "Miscellaneous",
+        "individualCategories": [
+          {
+            "category": "gid://shopify/Collection/432410362146",
+            "cateName": "Eco-friendly Products"
+          },
+          {
+            "category": "gid://shopify/Collection/246607184070",
+            "cateName": "Training Heads"
+          },
+          {
+            "category": "gid://shopify/Collection/160129450059",
+            "cateName": "Hygiene / Disposables"
+          },
+          {
+            "category": "gid://shopify/Collection/156262957131",
+            "cateName": "Beauty Accessories"
+          },
+          {
+            "category": "gid://shopify/Collection/142275543115",
+            "cateName": "Salon Furniture"
+          },
+          {
+            "category": "gid://shopify/Collection/142258143307",
+            "cateName": "Special Offers"
+          }
+        ]
+
+      },
+      {
+        "title": "Nails",
+        "individualCategories": [
+          {
+            "category": "gid://shopify/Collection/166538182731",
+            "cateName": "Gel Polish"
+          },
+          {
+            "category": "gid://shopify/Collection/166538510411",
+            "cateName": "Files & Tools"
+          },
+          {
+            "category": "gid://shopify/Collection/166538674251",
+            "cateName": "Acrylic"
+          }
+        ]
+      },
+      {
+        "title": "Barber Supplies",
+        "individualCategories": [
+          {
+            "category": "gid://shopify/Collection/142275149899",
+            "cateName": "Barber Styling Chairs"
+          },
+          {
+            "category": "gid://shopify/Collection/150673326155",
+            "cateName": "Scissors & Razors"
+          },
+          {
+            "category": "gid://shopify/Collection/165306630219",
+            "cateName": "Styling Products"
+          },
+          {
+            "category": "gid://shopify/Collection/142275018827",
+            "cateName": "Gowns, Neck Paper, Capes"
+          }
+        ]
+      }
+    ]
+  }
+
+
+
+}
