@@ -20,6 +20,33 @@
       "showNumber": false,
       "design": "default",
       "showBackGround": true,
+      "height": 0.4,
+      "radius": 0.0,
+      "items": [
+        {
+          "category": "gid://shopify/Collection/264314552505",
+          "cateName": "New Arrivals",
+          "image": "https://blogger.googleusercontent.com/img/a/AVvXsEiOf4hdvzBg5dstqvJFT-iVMj23nMdGZz9S6b5zb1ZXaAWrYzduL7CcvqzBdpTYqjMy9eH37-DCZ7TIPr7IVdQMr3TM2X8QIbb4Pupf4k3mUhFTlpwNoaMtmYT8VcyvFQ9U5EwZrlHxxuKvcoUPqN_LYg1gvOy_EcXcL97PDxn_HxZ3jyxLpdO_mx88"
+        },
+        {
+          "category": "gid://shopify/Collection/45082345523",
+          "cateName": "Cute Casuals",
+          "image": "https://blogger.googleusercontent.com/img/a/AVvXsEiqAb8iFwpKWL-9sKk5y3eskYZZC6bYRZULHY4U8KRRlvXOV-0xFKkqbKZWZdxW9TqSsJEqopB_TPQxF9e44pqBBk2Hrtm-v_rmKJUu8iqJKFDvZp2mhv3le-Tz0R296khoa0EEYqG0AL7PfX0K6zZiFNKa6zFtIUHnuMOoZUFFLxNs2XlY6llTV62u"
+        },
+        {
+          "category": "gid://shopify/Collection/45149454387",
+          "cateName": "Occasionwear",
+          "image": "https://blogger.googleusercontent.com/img/a/AVvXsEgkbqPa2SePno23V6fTol2u9RKxZ6rodanpNZWfGh-5jg4IuLHAJHkgTw4VqhcbF3n7sZfIAUdPBT57ZXAR-H2HuDbtlTPSnd6FxmQH0jFd89Jc37KPsktg7sCVDjTbRYIY4RBBqH4o-0yHvOFJ579vgDe92sl11rru1rlpGWLGnnCwvHTnhAA5hrqd"
+        }
+      ]
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "autoPlay": true,
+      "showNumber": false,
+      "design": "default",
+      "showBackGround": true,
       "height": 0.2,
       "radius": 15.0,
       "items": [
