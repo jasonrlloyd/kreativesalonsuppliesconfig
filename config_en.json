@@ -14,6 +14,10 @@
       "textColor": "ffffff"
     },
     {
+      "layout": "spacer",
+      "height": 20
+    },
+    {
       "layout": "categorySlider"
     },
     {
