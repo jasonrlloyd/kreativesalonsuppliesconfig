@@ -136,19 +136,6 @@
       "category": "gid://shopify/Collection/141955170379",
       "isSnapping": true
     },
-     {
-      "layout": "spacer",
-      "height": 20
-    },
-     {
-      "layout": "divider",
-      "indent": 75,
-      "endIndent": 75
-    },
-     {
-      "layout": "spacer",
-      "height": 10
-    },
     {
       "layout": "socials",
       "facebook": "https://www.facebook.com/KreativeSalonSupplies/",
