@@ -97,11 +97,37 @@
       "category": "gid://shopify/Collection/141216874571",
       "isSnapping": true
     },
+     {
+      "layout": "spacer",
+      "height": 20
+    },
+     {
+      "layout": "divider",
+      "indent": 75,
+      "endIndent": 75
+    },
+     {
+      "layout": "spacer",
+      "height": 10
+    },
     {
       "name": "Training & Education",
       "layout": "threeColumn",
       "limit": 20,
       "category": "gid://shopify/Collection/142258012235"
+    },
+     {
+      "layout": "spacer",
+      "height": 20
+    },
+     {
+      "layout": "divider",
+      "indent": 75,
+      "endIndent": 75
+    },
+     {
+      "layout": "spacer",
+      "height": 10
     },
     {
       "name": "Salon Accessories",
@@ -109,6 +135,19 @@
       "layout": "fourColumn",
       "category": "gid://shopify/Collection/141955170379",
       "isSnapping": true
+    },
+     {
+      "layout": "spacer",
+      "height": 20
+    },
+     {
+      "layout": "divider",
+      "indent": 75,
+      "endIndent": 75
+    },
+     {
+      "layout": "spacer",
+      "height": 10
     },
     {
       "layout": "socials",
