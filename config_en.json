@@ -18,15 +18,6 @@
       "backgroundColor": "8EB138"
     },
     {
-      "layout": "spacer",
-      "height": 10
-    },
-     {
-      "layout": "divider",
-      "indent": 10,
-      "endIndent": 10
-    },
-    {
       "layout": "bannerImage",
       "isSlider": true,
       "autoPlay": true,
@@ -63,12 +54,38 @@
       "name": "Recent View",
       "layout": "recentView"
     },
+     {
+      "layout": "spacer",
+      "height": 10
+    },
+     {
+      "layout": "divider",
+      "indent": 10,
+      "endIndent": 10
+    },
+    {
+      "layout": "spacer",
+      "height": 10
+    },
     {
       "name": "Permanent Hair Colour",
       "image": "",
       "layout": "twoColumn",
       "category": "gid://shopify/Collection/140847349835",
       "isSnapping": true
+    },
+     {
+      "layout": "spacer",
+      "height": 10
+    },
+     {
+      "layout": "divider",
+      "indent": 10,
+      "endIndent": 10
+    },
+    {
+      "layout": "spacer",
+      "height": 10
     },
     {
       "name": "Hair Tools",
