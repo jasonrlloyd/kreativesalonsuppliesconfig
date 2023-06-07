@@ -21,6 +21,10 @@
       "layout": "spacer",
       "height": 10
     },
+     {
+      "layout": "divider",
+      "thickness": 10
+    },
     {
       "layout": "bannerImage",
       "isSlider": true,
