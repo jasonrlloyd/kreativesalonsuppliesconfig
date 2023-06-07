@@ -63,12 +63,8 @@
     },
      {
       "layout": "divider",
-      "indent": 50,
-      "endIndent": 50
-    },
-    {
-      "layout": "spacer",
-      "height": 10
+      "indent": 75,
+      "endIndent": 75
     },
     {
       "name": "Permanent Hair Colour",
@@ -83,12 +79,8 @@
     },
      {
       "layout": "divider",
-      "indent": 50,
-      "endIndent": 50
-    },
-    {
-      "layout": "spacer",
-      "height": 10
+      "indent": 75,
+      "endIndent": 75
     },
     {
       "name": "Hair Tools",
