@@ -23,7 +23,8 @@
     },
      {
       "layout": "divider",
-      "thickness": 10
+      "indent": 10,
+      "endIndent": 10
     },
     {
       "layout": "bannerImage",
