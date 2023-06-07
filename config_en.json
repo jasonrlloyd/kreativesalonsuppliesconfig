@@ -59,39 +59,6 @@
       ]
     },
     {
-      "layout": "spacer",
-      "height": 10
-    },
-    {
-      "layout": "announceBar",
-      "title": "\uD83D\uDC47\uD83D\uDC4725/05/23: NEW VIDEO BELOW!!!\uD83D\uDC47\uD83D\uDC47",
-      "backgroundColor": "DEFA52",
-      "textColor": "000000",
-      "animate": true
-    },
-    {
-      "layout": "video",
-      "embed": "<iframe src=\"https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FKreativeSalonSupplies%2Fvideos%2F1435525593652154%2F&show_text=false&width=476&t=0\" width=\"476\" height=\"476\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>"
-    },
-    {
-      "layout": "announceBar",
-      "title": "LOVE THIS? NOW GRAB THE PRODUCTS \uD83D\uDC47\uD83D\uDC47",
-      "backgroundColor": "DEFA52",
-      "textColor": "000000",
-      "animate": true,
-      "totalRepeatCount": 400
-    },
-    {
-      "layout": "getTheLook",
-      "title": "Featured Products",
-      "productUrls": [
-        "https://www.kreativesalonsupplies.com/products/anti-orange-shampoo",
-        "https://www.kreativesalonsupplies.com/products/anti-orange-conditioner",
-        "https://www.kreativesalonsupplies.com/products/anti-red-shampoo",
-        "https://www.kreativesalonsupplies.com/products/anti-red-conditioner"
-      ]
-    },
-    {
       "name": "Recent View",
       "layout": "recentView"
     },
