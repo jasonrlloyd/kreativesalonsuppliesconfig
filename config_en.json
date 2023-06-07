@@ -57,15 +57,15 @@
       "name": "Recent View",
       "layout": "recentView"
     },
-     {
+    {
       "layout": "spacer",
       "height": 20
     },
-     {
+    {
       "layout": "divider",
-      "thickness": 0.5,
+      "thickness": 0.5
     },
-     {
+    {
       "layout": "spacer",
       "height": 10
     },
@@ -76,15 +76,15 @@
       "category": "gid://shopify/Collection/140847349835",
       "isSnapping": true
     },
-     {
+    {
       "layout": "spacer",
       "height": 20
     },
-     {
+    {
       "layout": "divider",
-      "thickness": 0.5,
+      "thickness": 0.5
     },
-     {
+    {
       "layout": "spacer",
       "height": 10
     },
@@ -95,15 +95,15 @@
       "category": "gid://shopify/Collection/141216874571",
       "isSnapping": true
     },
-     {
+    {
       "layout": "spacer",
       "height": 20
     },
-     {
+    {
       "layout": "divider",
-      "thickness": 0.5,
+      "thickness": 0.5
     },
-     {
+    {
       "layout": "spacer",
       "height": 10
     },
@@ -113,15 +113,15 @@
       "limit": 20,
       "category": "gid://shopify/Collection/142258012235"
     },
-     {
+    {
       "layout": "spacer",
       "height": 20
     },
-     {
+    {
       "layout": "divider",
-      "thickness": 0.5,
+      "thickness": 0.5
     },
-     {
+    {
       "layout": "spacer",
       "height": 10
     },
