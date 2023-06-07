@@ -63,8 +63,7 @@
     },
      {
       "layout": "divider",
-      "indent": 75,
-      "endIndent": 75
+      "thickness": 0.5,
     },
      {
       "layout": "spacer",
@@ -83,8 +82,7 @@
     },
      {
       "layout": "divider",
-      "indent": 75,
-      "endIndent": 75
+      "thickness": 0.5,
     },
      {
       "layout": "spacer",
@@ -103,8 +101,7 @@
     },
      {
       "layout": "divider",
-      "indent": 75,
-      "endIndent": 75
+      "thickness": 0.5,
     },
      {
       "layout": "spacer",
@@ -122,8 +119,7 @@
     },
      {
       "layout": "divider",
-      "indent": 75,
-      "endIndent": 75
+      "thickness": 0.5,
     },
      {
       "layout": "spacer",
