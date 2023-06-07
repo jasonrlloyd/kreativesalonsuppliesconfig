@@ -11,11 +11,14 @@
       "title": "Free Shipping Over €50 ROI | Log In For Trade Prices | Prices Shown are Ex-Vat",
       "backgroundColor": "608700",
       "textColor": "ffffff"
-
     },
     {
       "layout": "categorySlider",
       "backgroundColor": "8EB138"
+    },
+    {
+      "layout": "spacer",
+      "height": 10
     },
     {
       "layout": "bannerImage",
@@ -60,8 +63,8 @@
     },
      {
       "layout": "divider",
-      "indent": 10,
-      "endIndent": 10
+      "indent": 50,
+      "endIndent": 50
     },
     {
       "layout": "spacer",
@@ -80,8 +83,8 @@
     },
      {
       "layout": "divider",
-      "indent": 10,
-      "endIndent": 10
+      "indent": 50,
+      "endIndent": 50
     },
     {
       "layout": "spacer",
