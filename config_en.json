@@ -516,13 +516,8 @@
           {
             "category": "gid://shopify/Collection/150673326155",
             "cateName": "Scissors & Razors"
-          }
-        ]
-      },
-      {
-        "title": "Miscellaneous",
-        "individualCategories": [
-          {
+          },
+           {
             "category": "gid://shopify/Collection/432410362146",
             "cateName": "Eco-friendly Products"
           },
@@ -537,17 +532,17 @@
           {
             "category": "gid://shopify/Collection/156262957131",
             "cateName": "Beauty Accessories"
-          },
+          }
+        ]
+      },
+      {
+        "title": "Salon Furniture",
+        "individualCategories": [
           {
             "category": "gid://shopify/Collection/142275543115",
             "cateName": "Salon Furniture"
-          },
-          {
-            "category": "gid://shopify/Collection/142258143307",
-            "cateName": "Special Offers"
           }
         ]
-
       },
       {
         "title": "Nails",
@@ -563,6 +558,15 @@
           {
             "category": "gid://shopify/Collection/166538674251",
             "cateName": "Acrylic"
+          }
+        ]
+      },
+      {
+        "title": "Special Offers",
+        "individualCategories": [
+          {
+            "category": "gid://shopify/Collection/142258143307",
+            "cateName": "Monthly Special Offers"
           }
         ]
       },
