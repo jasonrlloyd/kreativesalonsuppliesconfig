@@ -12,7 +12,7 @@
       "backgroundColor": "608700",
       "textColor": "ffffff",
       "animate": true,
-      "repeatCount": 3
+      "totalRepeatCount": 3
     },
     {
       "layout": "categorySlider",
