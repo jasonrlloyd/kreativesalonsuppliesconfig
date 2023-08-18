@@ -54,39 +54,6 @@
       ]
     },
     {
-      "layout": "bannerImage",
-      "isSlider": true,
-      "autoPlay": true,
-      "showNumber": false,
-      "design": "default",
-      "showBackGround": true,
-      "height": 0.2,
-      "radius": 15.0,
-      "items": [
-        {
-          "category": "gid://shopify/Collection/150739353675",
-          "title": {"text": "ALTER EGO TECHNO FRUIT", "color": "#ffffff"},
-          "cateName": "Alter Ego Techno Fruit",
-          "image": "https://i0.wp.com/www.esteticamagazine.es/wp-content/uploads/archivio/2019/12/27002-9ca069741e547e12a207fecaf49f1d0d.jpg",
-          "padding": 15.0
-        },
-        {
-          "category": "gid://shopify/Collection/281922109638",
-          "title": {"text": "FAST COLOR 10", "color": "#ffffff"},
-          "cateName": "Fast Color 10",
-          "image": "https://www.beautymarket.es/peluqueria/imagen/alter_ego_form1062_nov2021.jpg",
-          "padding": 15.0
-        },
-        {
-          "category": "gid://shopify/Collection/140848398411",
-          "title": {"text": "ECHOSLINE", "color": "#ffffff"},
-          "cateName": "Echosline",
-          "image": "https://www.echosline.it/media/wysiwyg/echosline/home/SLIDER_ECHOSLINE.jpg",
-          "padding": 15.0
-        }
-      ]
-    },
-    {
       "name": "Recent View",
       "layout": "recentView"
     },
