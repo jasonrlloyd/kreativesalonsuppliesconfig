@@ -20,7 +20,7 @@
     },
      {
       "layout": "bannerImage",
-      "isSlider": false,
+      "isSlider": true,
       "autoPlay": true,
       "showNumber": false,
       "design": "default",
