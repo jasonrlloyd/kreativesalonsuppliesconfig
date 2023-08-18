@@ -11,7 +11,8 @@
       "title": "Order through the app for a chance to win professional Leader scissors worth €1k. Winner announced 31st Aug 2023. Terms apply.",
       "backgroundColor": "608700",
       "textColor": "ffffff",
-      "animate": true
+      "animate": true,
+      "repeatCount": 3
     },
     {
       "layout": "categorySlider",
