@@ -8,9 +8,10 @@
     },
     {
       "layout": "announceBar",
-      "title": "Free Shipping Over €50 ROI | Log In For Trade Prices | Prices Shown are Ex-Vat",
+      "title": "Order through the app for a chance to win professional Leader scissors worth €1k. Winner announced 31st Aug 2023. Terms apply.",
       "backgroundColor": "608700",
-      "textColor": "ffffff"
+      "textColor": "ffffff",
+      "animate": true
     },
     {
       "layout": "categorySlider",
