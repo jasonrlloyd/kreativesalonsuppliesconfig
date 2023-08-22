@@ -11,8 +11,7 @@
       "title": "App Exclusive: 20% off Styling Tools this week only with code styling20",
       "backgroundColor": "608700",
       "textColor": "ffffff",
-      "animate": true,
-      "totalRepeatCount": 2
+      "animate": false
     },
     {
       "layout": "categorySlider",
