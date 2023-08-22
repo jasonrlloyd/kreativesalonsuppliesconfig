@@ -8,11 +8,11 @@
     },
     {
       "layout": "announceBar",
-      "title": "Order through the app for a chance to win professional leader scissors worth €1k. Winner announced 31st aug 2023. Terms apply.",
+      "title": "App Exclusive: 20% off Styling Tools this week only with code styling20",
       "backgroundColor": "608700",
       "textColor": "ffffff",
       "animate": true,
-      "totalRepeatCount": 3
+      "totalRepeatCount": 2
     },
     {
       "layout": "categorySlider",
