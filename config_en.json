@@ -17,7 +17,7 @@
       "layout": "categorySlider",
       "backgroundColor": "8EB138"
     },
-     {
+    {
       "layout": "bannerImage",
       "isSlider": true,
       "autoPlay": true,
@@ -27,13 +27,13 @@
       "height": 0.25,
       "radius": 0.0,
       "items": [
-         {
+        {
           "category": "gid://shopify/Collection/150739353675",
           "title": {"text": "ALTER EGO TECHNO FRUIT", "color": "#ffffff"},
           "cateName": "Alter Ego Techno Fruit",
           "image": "https://i0.wp.com/www.esteticamagazine.es/wp-content/uploads/archivio/2019/12/27002-9ca069741e547e12a207fecaf49f1d0d.jpg"
         },
-         {
+        {
           "cateName": "Deal",
           "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid1HQj2n_ZKITRosyEARCObGc7nCKhPn240fs4crPGTuuqYU2d1Ja4H-exWvIragE2erpZs4muFjDDim4ecBH2_P8Uk9moF236JQAcTIGTFz8qi_d7vj_sK627jCFB5mdc27iL1psttbrk0IPLnz3TsukzkozqKEJS2A_aHPZdPoIAS4jEkIPnTNxCPHU/s1280/Video%20Thumbnail%20(10).png"
         },
@@ -48,7 +48,7 @@
           "title": {"text": "ECHOSLINE", "color": "#ffffff"},
           "cateName": "Echosline",
           "image": "https://www.echosline.it/media/wysiwyg/echosline/home/SLIDER_ECHOSLINE.jpg"
-  
+
         }
       ]
     },
@@ -516,7 +516,7 @@
             "category": "gid://shopify/Collection/150673326155",
             "cateName": "Scissors & Razors"
           },
-           {
+          {
             "category": "gid://shopify/Collection/432410362146",
             "cateName": "Eco-friendly Products"
           },
@@ -591,5 +591,6 @@
         ]
       }
     ]
-  }
+  },
+  "showCategoryDescripion": true
 }
