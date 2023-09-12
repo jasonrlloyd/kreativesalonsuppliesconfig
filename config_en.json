@@ -28,6 +28,11 @@
       "radius": 0.0,
       "items": [
         {
+          "category": "gid://shopify/Collection/140850495563",
+          "cateName": "Bleach",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0z-Szg1i9H_YLFIJmU4P8CbnE-8GHERbVLKvQBFXTd2AThvq0gLZpf9DDTGYAn8jfipU2iONCbHFojGTd8EpEakMgZhYa-hbu7172qR-3wbFcpCqSgZxewSjNHb3v9JRc1XIntcTYPROjr6Vpbz-BzU7AZ0YDLp3SXIuETsZYA-0zHMg7ghCuZj5AQcA/s1280/Video%20Thumbnail%20(21).png"
+        },
+        {
           "category": "gid://shopify/Collection/150739353675",
           "title": {"text": "ALTER EGO TECHNO FRUIT", "color": "#ffffff"},
           "cateName": "Alter Ego Techno Fruit",
