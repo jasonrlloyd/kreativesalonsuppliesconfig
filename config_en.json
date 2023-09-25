@@ -8,7 +8,7 @@
     },
     {
       "layout": "announceBar",
-      "title": "App Exclusive: 20% off Alter Ego bleach this week only with code bleach20",
+      "title": "Free Shipping Over €50 ROI | Log In For Trade Prices | Prices Shown are Ex-Vat",
       "backgroundColor": "608700",
       "textColor": "ffffff",
       "animate": false
@@ -28,19 +28,10 @@
       "radius": 0.0,
       "items": [
         {
-          "category": "gid://shopify/Collection/140850495563",
-          "cateName": "Bleach",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0z-Szg1i9H_YLFIJmU4P8CbnE-8GHERbVLKvQBFXTd2AThvq0gLZpf9DDTGYAn8jfipU2iONCbHFojGTd8EpEakMgZhYa-hbu7172qR-3wbFcpCqSgZxewSjNHb3v9JRc1XIntcTYPROjr6Vpbz-BzU7AZ0YDLp3SXIuETsZYA-0zHMg7ghCuZj5AQcA/s1280/Video%20Thumbnail%20(21).png"
-        },
-        {
           "category": "gid://shopify/Collection/150739353675",
           "title": {"text": "ALTER EGO TECHNO FRUIT", "color": "#ffffff"},
           "cateName": "Alter Ego Techno Fruit",
           "image": "https://i0.wp.com/www.esteticamagazine.es/wp-content/uploads/archivio/2019/12/27002-9ca069741e547e12a207fecaf49f1d0d.jpg"
-        },
-        {
-          "cateName": "Deal",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid1HQj2n_ZKITRosyEARCObGc7nCKhPn240fs4crPGTuuqYU2d1Ja4H-exWvIragE2erpZs4muFjDDim4ecBH2_P8Uk9moF236JQAcTIGTFz8qi_d7vj_sK627jCFB5mdc27iL1psttbrk0IPLnz3TsukzkozqKEJS2A_aHPZdPoIAS4jEkIPnTNxCPHU/s1280/Video%20Thumbnail%20(10).png"
         },
         {
           "category": "gid://shopify/Collection/281922109638",
