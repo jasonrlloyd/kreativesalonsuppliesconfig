@@ -250,6 +250,23 @@
     "colorAccent": "608700",
     "items": [
       {
+        "title": "Christmas Gift Sets",
+        "individualCategories": [
+          {
+            "category": "gid://shopify/Collection/609863270737",
+            "cateName": "Alter Ego Christmas Gift Sets"
+          },
+          {
+            "category": "gid://shopify/Collection/609867727185",
+            "cateName": "Echosline Christmas Gift Sets"
+          },
+          {
+            "category": "gid://shopify/Collection/152820514891",
+            "cateName": "SHOW ALL"
+          }
+        ]
+      },
+      {
         "title": "Training & Education",
         "individualCategories": [
           {
