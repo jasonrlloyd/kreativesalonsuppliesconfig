@@ -255,6 +255,15 @@
     "colorAccent": "608700",
     "items": [
       {
+        "title": "Black Friday Offers",
+        "individualCategories": [
+          {
+            "category": "gid://shopify/Collection/610294956369",
+            "cateName": "Black Friday 2023"
+          }
+        ]
+      },
+      {
         "title": "Christmas Gift Sets",
         "individualCategories": [
           {
